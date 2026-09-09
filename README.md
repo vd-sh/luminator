@@ -4,7 +4,7 @@ An alternative to studio-style lighting, but easy to make, open-source, and give
 ## Will update here as I build:
 1. After 35 hrs of work, completed the CAD parts
 2. You can see all part studios live [here!](https://cad.onshape.com/documents/b3ca68bcd4112968d156ee1f/w/54c38c9b0710fcfaf4bc88f6/e/4f894d10dba4b7e663bf13e5)
-3. Made [bom.csv](bom.csv) for the required materials
+3. Made [BOM.csv](BOM.csv) for the required materials
 4. Uploaded the part studios .step files in [Hardware](Hardware)
 
 ## License
