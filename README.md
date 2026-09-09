@@ -7,7 +7,7 @@ An alternative to studio-style lighting, but easy to make, open-source, and give
 3. Made [bom.csv](bom.csv) for the required materials
 4. Uploaded the part studios .step files in [Hardware](Hardware)
 
-##License
+## License
 [MIT](LICENSE) - You may read, write, modify, and share as you like.
 
 ## Note:
